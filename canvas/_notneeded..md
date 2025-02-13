@@ -3,7 +3,7 @@ LiveDoc - Product Canvas: Vision statement
 For information on how to edit and maintain this file, please visit: developer.qed.qld.gov.au/LiveDoc-Canvas
 -->
 ---
-canvas-type: vision-statement \
+canvas-type: tbd
 style-renderer: https://developer.qed.qld.gov.au/livedoc/style.yaml \
 title: Another vision statement
 
