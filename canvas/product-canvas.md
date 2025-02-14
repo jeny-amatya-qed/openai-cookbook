@@ -8,7 +8,7 @@ style-renderer: https://developer.qed.qld.gov.au/livedoc/style.yaml
 title: Roadmap statement
 
 ---
-For [Developers]
+FOR [Developers]
 
 WHO [wish to use Department of Education services and data]
 
