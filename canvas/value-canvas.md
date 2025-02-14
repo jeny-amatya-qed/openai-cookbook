@@ -8,7 +8,7 @@ style-renderer: https://developer.qed.qld.gov.au/livedoc/style.yaml
 title: Value statement
 
 ---
-For [Developers]
+FOR [Developers]
 
 WHO [wish to use Department of Education services and data]
 
