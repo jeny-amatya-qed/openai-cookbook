@@ -5,7 +5,7 @@ For information on how to edit and maintain this file, please visit: developer.q
 ---
 canvas-type: vision-statement
 style-renderer: https://developer.qed.qld.gov.au/livedoc/style.yaml
-title: Vision statement
+title: test vision statement
 
 ---
 For [Developers]
