@@ -4,24 +4,58 @@ For information on how to edit and maintain this file, please visit: developer.q
 -->
 ---
 canvas-type: roadmap-release
-style-renderer: canvas/styles/livedoc/vision.yml
-title: 6 Updated roadmap for 2025
+title: Roadmap 2025
 
 ---
+
 # Q1
-- [Run] Operational task
-- [Grow] Exciting feature
-- [Transform] Major initiative
-- [Milestone] PRC approvals
+[BackColour] #00838F
+## Operational task
+[BackColour] #1C90C8
+[Subheader] Run
+## Exciting feature
+[BackColour] #A5509F
+[Subheader] Grow
+## Major initiative
+[BackColour] #ED7D31
+[Subheader] Transform
+## PRC approvals
+[BackColour] #000000
+[Subheader] Milestone
 
 # Q2
-- [Run] Operational task
-- [Grow] Exciting feature
-- [Transform] Major initiative
-- [Milestone] PRC approvals
+[BackColour] #00838F
+## PRC approvals
+[BackColour] #000000
+[Subheader] Milestone
+## Exciting feature
+[BackColour] #A5509F
+[Subheader] Grow
+## Major initiative
+[BackColour] #ED7D31
+[Subheader] Transform
+
 
 # Q3
-- [Run] Operational task
-- [Grow] Exciting feature
-- [Transform] Major initiative
-- [Milestone] PRC approvals
+[BackColour] #00838F
+## Operational task
+[BackColour] #1C90C8
+[Subheader] Run
+## Operational task
+[BackColour] #1C90C8
+[Subheader] Run
+## Major initiative
+[BackColour] #ED7D31
+[Subheader] Transform
+
+# Q4
+[BackColour] #00838F
+## Operational task
+[BackColour] #1C90C8
+[Subheader] Run
+## Operational task
+[BackColour] #1C90C8
+[Subheader] Run
+## Major initiative
+[BackColour] #ED7D31
+[Subheader] Transform
