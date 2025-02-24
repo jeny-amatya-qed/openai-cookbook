@@ -3,9 +3,9 @@ LiveDoc - Product Canvas: Roadmap statement
 For information on how to edit and maintain this file, please visit: developer.qed.qld.gov.au/LiveDoc-Canvas
 -->
 ---
-canvas-type: roadmap-statement
+canvas-type: roadmap-release
 style-renderer: canvas/styles/livedoc/vision.yml
-title: Roadmap 2025
+title: Updated Roadmap 2025
 
 ---
 # Q1
