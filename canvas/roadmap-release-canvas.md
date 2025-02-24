@@ -5,7 +5,7 @@ For information on how to edit and maintain this file, please visit: developer.q
 ---
 canvas-type: roadmap-release
 style-renderer: canvas/styles/livedoc/vision.yml
-title: 4 Updated roadmap for 2025
+title: 6 Updated roadmap for 2025
 
 ---
 # Q1
