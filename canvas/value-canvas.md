@@ -3,9 +3,9 @@ LiveDoc - Product Canvas: Value Proposition
 For information on how to edit and maintain this file, please visit: developer.qed.qld.gov.au/LiveDoc-Canvas
 -->
 ---
-canvas-type: value-proposition
+canvas-type: value-statement
 style-renderer: canvas/styles/livedoc/vision.yml
-title: Supporting developers
+title: Updated Supporting developers
 
 ---
 # Customer
