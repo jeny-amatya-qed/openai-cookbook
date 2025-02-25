@@ -8,7 +8,7 @@ canvas-type: roadmap-release
 title: Quarterly Product Roadmap 2025
 
 ---
-# Jan  
+# Jan
 [BackColour] #00838F  
 ## Content Maintenance and Updates  
 [BackColour] #1C90C8  
@@ -23,7 +23,7 @@ title: Quarterly Product Roadmap 2025
 [BackColour] #A5509F  
 [Subheader] Grow  
 
-# Feb  
+# Feb
 [BackColour] #00838F  
 ## Documentation Standardization  
 [BackColour] #1C90C8  
