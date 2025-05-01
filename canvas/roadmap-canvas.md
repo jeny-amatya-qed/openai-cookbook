@@ -1,25 +1,32 @@
+<!--
+LiveDoc - Product Canvas: Roadmap statement
+For information on how to edit and maintain this file, please visit: developer.qed.qld.gov.au/LiveDoc-Canvas
+-->
 ---
 canvas-type: roadmap-release
-title: Product Release Roadmap 2025
+title: Roadmap 2025 DP
 
 ---
-# Q1
-- [Run] Operational task
-- [Grow] Exciting feature
-- [Transform] Major initiative
-- [Milestone] PRC approvals
+# NOW
+- [Run] Membership, Posting & Feedback
+- [Run] Standards publishing
+- [Run] LiveDoc auto-code review 
+- [Grow] LiveDoc auto-code dependancy scan
+- [Run] Test-harness data
+- [Grow] Readiness Explorer - NFR
+- [Milestone] Streamlined MSA
 
-# Q2
-- [Milestone] PRC approvals
-- [Grow] Exciting feature
-- [Transform] Major initiative
+# NEXT
+- [Run] Tracking/reporting
+- [Grow] Product canvases
+- [Grow] LiveDoc portfolio report
+- [Run] Auto-content import & sync
 
-# Q3
-- [Run] Operational task
-- [Run] Operational task
-- [Transform] Major initiative
-
-# Q4
-- [Run] Operational task
-- [Run] Operational task
-- [Transform] Major initiative
+# LATER
+- [Grow] Auto-content summary
+- [Grow] Readiness Explorer - WCAG, ISA
+- [Milestone] Vendor POC
+- [Grow] AI code assist
+- [Grow] AI chart assist
+- [Grow] Auto-gen scaffold/boiler plates
+- [Grow] Community collaboration
