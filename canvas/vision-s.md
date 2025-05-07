@@ -7,7 +7,7 @@ canvas-type: vision-statement
 title: Vision statement
 
 ---
-For [Developers]
+FOR [Developers]
 
 WHO [wish to use Department of Education services and data]
 
